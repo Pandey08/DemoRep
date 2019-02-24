@@ -22,18 +22,9 @@ public class FirstTest {
 	close browser
 	logout from app
 	PASSED: googleTitleTest
-	
+	Asdfgh
 	
 	*/
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	@BeforeSuite
 	
